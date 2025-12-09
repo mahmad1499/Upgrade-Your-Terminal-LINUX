@@ -1,4 +1,4 @@
-# Upgrade-Your-Terminal/LINUX <img width="35" height="90" alt="image" src="https://github.com/user-attachments/assets/1650cfef-f4d7-4045-ae0d-116c8814c225" />
+# Upgrade-Your-Terminal/LINUX 🐧
 
 
 
