@@ -1,5 +1,8 @@
-# Upgrade-Your-Terminal/LINUX
-This guide provides comprehensive instructions and recommendations for enhancing your Linux command-line experience. Learn how to transform your default terminal emulator into a powerful, visually appealing and highly efficient workspace. We cover updates regarding switching your default shell (BASH) to (ZSH) installing modern, faster command-line utilities and customizing the aesthetic appeal with themes and fonts. Discover tools that streamline workflows, automate tasks and significantly boost your productivity.
+# Upgrade-Your-Terminal/LINUX <img width="35" height="90" alt="image" src="https://github.com/user-attachments/assets/1650cfef-f4d7-4045-ae0d-116c8814c225" />
+
+
+
+This guide provides comprehensive instructions and recommendations for enhancing your Linux command-line experience. Learn how to transform your default terminal emulator into a powerful, visually appealing and highly efficient workspace. We cover updates regarding switching your default shell **_(BASH)_** to **_(ZSH)_** installing modern, faster command-line utilities and customizing the aesthetic appeal with themes and fonts. Discover tools that streamline workflows, automate tasks and significantly boost your productivity.
 
 
 <img width="1343" height="698" alt="Screenshot from 2025-08-09 13-41-52" src="https://github.com/user-attachments/assets/a71e31e2-1b9b-4544-9fa8-95cdb0a517ff" />
